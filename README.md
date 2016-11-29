@@ -1,4 +1,4 @@
-# 《Advanced Bash-Scripting Guide(Revision 10)》examples
+# Source code of《Advanced Bash-Scripting Guide(Revision 10)》
 
 ## 原著
 - 原著链接：http://tldp.org/LDP/abs/html/
